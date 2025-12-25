@@ -1,4 +1,6 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
+## NAME: VIDHYA G
+## REF NO: 25018873
 
 **AIM:**
 
@@ -38,6 +40,16 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 
 **Norton’s equivalent circuit**
+
+<img width="855" height="1280" alt="image" src="https://github.com/user-attachments/assets/698aa736-2d56-4477-87ca-557609a2ebb5" />
+
+<img width="934" height="1280" alt="image" src="https://github.com/user-attachments/assets/43203744-3a79-49a9-8e52-abfacdf4ccf6" />
+
+<img width="850" height="1280" alt="image" src="https://github.com/user-attachments/assets/d9ba226c-6118-49f2-837c-f4c119cd40e6" />
+
+<img width="866" height="1280" alt="image" src="https://github.com/user-attachments/assets/c49ddd26-5dd6-4cdc-9c4e-760a9aa53aad" />
+
+<img width="855" height="1280" alt="image" src="https://github.com/user-attachments/assets/6d330b49-bcca-4ed6-b8fc-fd74569b6728" />
 
 
 **PROCEDURE:**
